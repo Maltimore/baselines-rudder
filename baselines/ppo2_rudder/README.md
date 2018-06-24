@@ -4,6 +4,8 @@ Uses RUDDER on PPO to solve environments with delayed rewards.
 
 Please note that in this implementation the reward redistribution model is not optimized and computed sequentially for each game.
 
+A quick tutorial on reward redistribution implementation will be added soon.
+
 - Original paper: https://arxiv.org/abs/1806.07857
 - Requires [Tensorflow Layer Library (TeLL)](https://github.com/bioinf-jku/tensorflow-layer-library) package (v1.0)
 - `python3 -m baselines.ppo2_rudder.run_atari.py --config ppo2_rudder/configs/Venture.json` runs the algorithm with configuration file "ppo2_rudder/configs/Venture.json".
