@@ -4,7 +4,7 @@ Uses RUDDER on PPO to solve environments with delayed rewards.
 
 Please note that in this implementation the reward redistribution model is not optimized and computed sequentially for each game.
 
-A quick tutorial on reward redistribution implementation will be added soon.
+**See https://widmi.github.io/ for a quick tutorial on reward redistribution with tensorflow implementation and code-snippets that you can run on your CPU.**
 
 - Original paper: https://arxiv.org/abs/1806.07857
 - Requires [Tensorflow Layer Library (TeLL)](https://github.com/bioinf-jku/tensorflow-layer-library) package (v1.0)
