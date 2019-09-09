@@ -1,3 +1,5 @@
+**Important: Deprecated version. Update to latest arxiv version coming soon.**
+
 # Baselines incl. RUDDER
 
 Uses RUDDER on PPO to solve environments with delayed rewards. Our RUDDER paper is available at [https://arxiv.org/abs/1806.07857](https://arxiv.org/abs/1806.07857). 
