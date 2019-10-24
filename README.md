@@ -1,3 +1,5 @@
+**Important: Deprecated version. Update to latest arxiv version coming soon. Please use the resources in our [main repository](https://github.com/ml-jku/rudder) in the meanwhile.**
+
 RUDDER efficiently learns optimal policies in finite Markov decision processes with delayed rewards.
 With the following links you can find:
 - Main repository: https://github.com/ml-jku/rudder
@@ -5,8 +7,6 @@ With the following links you can find:
 - RUDDER blog: https://www.jku.at/index.php?id=16426
 - Code for RUDDER demonstration on example-task in blog: https://github.com/ml-jku/rudder-demonstration-code
 - A practical step-by-step guide to applying RUDDER in PyTorch: https://github.com/widmi/rudder-a-practical-tutorial
-
-**Important: Deprecated version. Update to latest arxiv version coming soon. Please use the resources in our [main repository](https://github.com/ml-jku/rudder) in the meanwhile.**
 
 # Baselines incl. RUDDER
 
