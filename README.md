@@ -12,7 +12,7 @@ With the following links you can find:
 
 Uses RUDDER on PPO to solve environments with delayed rewards. Our RUDDER paper is available at [https://arxiv.org/abs/1806.07857](https://arxiv.org/abs/1806.07857). 
 
-**See https://widmi.github.io/ for a quick tutorial on reward redistribution with tensorflow implementation and code-snippets that you can run on your CPU.**
+**See https://github.com/widmi/rudder-a-practical-tutorial for a quick tutorial on reward redistribution using a pytorch implementation and code-snippets that you can run on your CPU.**
 
 Our code is based on the [OpenAI Baselines](https://github.com/openai/baselines) package, in which we included our implementation of RUDDER for PPO for ATARI games with delayed rewards.
 Additionally, the [Tensorflow Layer Library (TeLL)](https://github.com/bioinf-jku/tensorflow-layer-library) package (v1.0.0) is required for RUDDER.
